@@ -1,0 +1,39 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* l10n_id_improve
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-20 03:48+0700\n"
+"PO-Revision-Date: 2026-02-20 03:48+0700\n"
+"Last-Translator: \n"
+"Language-Team: Owo Sugiana <sugiana@gmail.com>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#. module: base 
+#: model:ir.module.module,shortdesc:base.module_l10n_id_improve
+msgid "Indonesia Localization Improvement"
+msgstr "Berbagai Penyempurnaan"
+
+#. module: base 
+#: model:ir.module.module,summary:base.module_l10n_id_improve
+msgid "Indonesian translation improvements and default localization"
+msgstr "Penerjemahan dan nilai default"
+
+#. module: base
+#: model:ir.module.module,description:base.module_l10n_id_improve
+msgid "An example of the improvement is that the translation of State in the Contacts form should be Province, not Status."
+msgstr "Contoh perbaikannya adalah penerjemahan State di form Kontak seharusnya Provinsi bukan Status."
+
+#. module: base
+#: model_terms:ir.ui.view,arch_db:base.view_company_form
+#: model_terms:ir.ui.view,arch_db:base.view_partner_form
+msgid "State"
+msgstr "Provinsi"
