@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="1">
+        <record id="base.lang_id" model="res.lang">
+            <field name="date_format">%A %d %b %Y</field>
+        </record>
+    </data>
+</odoo>

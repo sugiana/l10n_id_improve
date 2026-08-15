@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="1">
+        <record id="default_company_country_indonesia" model="ir.default">
+            <field name="field_id" ref="base.field_res_company__country_id"/>
+            <field name="json_value">100</field>
+        </record>
+        <record id="default_partner_country_indonesia" model="ir.default">
+            <field name="field_id" ref="base.field_res_partner__country_id"/>
+            <field name="json_value">100</field>
+        </record>
+        <!-- record id="default_partner_lang_indonesia" model="ir.default">
+            <field name="field_id" ref="base.field_res_partner__lang"/>
+            <field name="json_value">"id_ID"</field>
+        </record -->
+    </data>
+</odoo>
